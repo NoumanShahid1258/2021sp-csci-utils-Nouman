@@ -1,0 +1,15 @@
+canvasapi
+atomicwrites
+environs
+pandas
+GitPython
+gcg
+xlrd
+luigi
+dask
+
+[all]
+luigi>=3.0.0
+
+[luigi]
+luigi>=3.0.0
